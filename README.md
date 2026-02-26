@@ -8,17 +8,13 @@ This repo is a reproducible install recipe for:
 - gr-iio / gnuradio-iio 0.3 (ADI branch upgrade-3.8)
 - GNSS-SDR (next) built with Pluto support
 
-## Quick start
-```bash
-git clone <YOUR_REPO_URL>
-cd gnss-sdr-pluto-ubuntu20.04-gnuradio3.8-iio
+## Installation
+
+Run the scripts in order:
 
 bash install/00_prereqs.sh
 bash install/10_check_gnuradio_prefix.sh
-
 bash install/20_build_libiio_v0.25.sh
 bash install/30_build_libad9361_iio.sh
 bash install/40_build_gr_iio_upgrade3.8.sh
-bash install/90_pluto_check.sh
-
 bash install/50_build_gnss_sdr_next_pluto.sh
