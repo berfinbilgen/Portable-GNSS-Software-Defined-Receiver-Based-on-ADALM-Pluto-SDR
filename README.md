@@ -21,7 +21,9 @@ This folder contains:
 These materials document the validation and testing process of the GNSS-SDR + PlutoSDR setup.
 
 Each report corresponds to a specific experiment configuration or validation stage.
+## System Architecture
 
+This folder contains the big picture of the project and an explanation of how the flow of the system works overall.
 ## Installation
 
 Run the scripts in order:
