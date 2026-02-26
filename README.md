@@ -8,6 +8,20 @@ This repo is a reproducible install recipe for:
 - gr-iio / gnuradio-iio 0.3 (ADI branch upgrade-3.8)
 - GNSS-SDR (next) built with Pluto support
 
+# Reports and Demonstrations
+
+This folder contains:
+
+- Project reports (PDF format)
+- Demonstration screenshots
+- Configuration test results
+- Pluto signal acquisition examples
+- Performance evaluation outputs
+
+These materials document the validation and testing process of the GNSS-SDR + PlutoSDR setup.
+
+Each report corresponds to a specific experiment configuration or validation stage.
+
 ## Installation
 
 Run the scripts in order:
