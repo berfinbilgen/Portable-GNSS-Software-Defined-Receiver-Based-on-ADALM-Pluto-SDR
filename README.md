@@ -21,16 +21,9 @@ This folder contains:
 These materials document the validation and testing process of the GNSS-SDR + PlutoSDR setup.
 
 Each report corresponds to a specific experiment configuration or validation stage.
-## System Architecture
+# System Architecture
 
 This folder contains the big picture of the project and an explanation of how the flow of the system works overall.
+
 ## Installation
-
-Run the scripts in order:
-
-bash install/00_prereqs.sh
-bash install/10_check_gnuradio_prefix.sh
-bash install/20_build_libiio_v0.25.sh
-bash install/30_build_libad9361_iio.sh
-bash install/40_build_gr_iio_upgrade3.8.sh
-bash install/50_build_gnss_sdr_next_pluto.sh
+---Briefly exp installation process--
