@@ -4,11 +4,11 @@ This directory contains all technical reports and demonstration materials relate
 
 Contents include:
 
-- Installation validation reports
-- Pluto connectivity tests
+- Progress and Methods/Research reports
+- Project Demo-Video
 - Signal acquisition screenshots
 - Tracking and decoding outputs
 - Performance evaluation results
-- Configuration experiments
+- Setup and Configuration Pictures
 
 Each report documents a specific test scenario or configuration stage.
